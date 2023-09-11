@@ -2,7 +2,7 @@
 //  Stats2.hpp
 //  StatClassProject
 //
-//  Created by Matthew  Ramos on 8/8/23.
+//  Created by Matthew  Ramos on 2/7/23.
 //
 
 #ifndef stats_h
